@@ -7,6 +7,7 @@
 
 ### References:
 - [tiemi/package-template](https://github.com/tiemi/package-template)
+- [instruções](https://github.com/rtof83/python-dio/blob/main/package/instructions)
 
 
 ![alt tag](https://hermes.digitalinnovation.one/assets/diome/logo.png)
